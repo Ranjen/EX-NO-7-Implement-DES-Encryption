@@ -42,7 +42,7 @@ int main()
 
 ## Output:
 
-
+<img width="724" height="213" alt="image" src="https://github.com/user-attachments/assets/1a9095e3-cec7-4b69-a164-58d45f76b867" />
 
 ## Result:
 The program is executed successfully.
